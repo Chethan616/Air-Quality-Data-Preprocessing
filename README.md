@@ -48,7 +48,7 @@ How to Run the Project
 
 Clone the repository:
 
-git clone https://github.com/your-username/air-quality-preprocessing.git
+git clone https://github.com/Chethan616/air-quality-preprocessing.git
 
 Navigate to the project folder:
 
